@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-I’m a [photographer](https://www.flickr.com/photos/trey_piepmeier/) and web developer. I live in Massachusetts. I’m originally from Tennessee.
-
 <!--
 **trey/trey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,9 +13,6 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
     - 🎞 [Cassette Nest](http://cassettenest.com)
-- 🤔 I’m looking for help with ...
-    - ⚡️Design
-- 🌱 I’m currently learning ...
-    - 🐳 How to build websites with Docker.
-    - 😷 How to exist in 2020.
 - 😄 Pronouns: he/him
+
+Visit [my website](https://treypiepmeier.com) if you want to know more about me.
